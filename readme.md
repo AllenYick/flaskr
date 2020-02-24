@@ -4,3 +4,4 @@
 支持一下内容：
 ## falsk-wtf
 ## flask-sqlalchemy
+## flask-email
